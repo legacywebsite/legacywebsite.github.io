@@ -1,0 +1,35 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1> How to: Minecraft Edition</h1>
+<p> 
+In Minecraft, you have two options of gameplay survival or creativity and through this players explore a three-dimensional block world with virtually endless terrain where they can explore and mine raw materials, tools, craft items, and build constructions while processing earthworks and machinery all in First person perspective. According to Open Critic, Minecraft is rated a 9/10 for its “incredible constructions” and “grand adventures.” This game is fun for all levels of players whether you are new to games, experienced, or even a master. Minecraft provides an immersive experience and can even offer a challenge for those who are looking for one. The audience I plan to target is specifically noobies who are new to the game or even gaming in general.  in the upcoming clips, I will be demonstrating the following techniques to help you get started on your adventure through the Minecraft world.
+How to get started: 
+
+</p>
+
+<img src="images/minecraft.png">
+
+</body>
+</html>
+

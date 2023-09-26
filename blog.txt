@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: cadetblue;}
+h1   {color: darkblue;}
+p    {color: white;}
+h2   {color: slateblue;}
+</style>
+</head>
+<body>
+
+<h1>Blog 1</h1>
+
+<h2> What makes games so enticing and entertaining? </h2>
+<p>
+I think its the combination of story and visuals along with characterization.
+The combination of story and visuals allows for a visual stimulation and something to follow along with. This allows for us to grow connections and attachments to the game we are playing and this also allows for characterization to flourish and enrich the story.</p>
+
+<h2> Why do people like games?</h2>
+<p>
+https://www.nytimes.com/2020/06/11/style/why-people-love-games.html</p>
+<p> People like games because they provide a course of action which can lead to one feeling better about themselves. Games also provide a sense of reward, usually with games come rewards which entices a gamer further.
+</p>
+
+<h1>Blog 2 </h1>
+<h2> Game review </h2>
+<p>https://www.youtube.com/watch?v=rDuwnf5GjJs </p>
+
+<p> Overall I agree with the review and the order in which he ranked the season however there are some of his opinions I don't completely agree with some of his opinions on the seasons themselves. He points out that one of the reasons he ranked season 3 the worst is because of the art style and coloring change but I actually think this is a positive when it comes to season three and its production.</p> 
+
+<h1> Blog 3    </h1>
+<h2> Which computer should i buy?</h2> 
+<p>  Based on the article there are laptops and desktops which both have their fair share of benefits. Based on each person's life and personal preferences each computer might have its own pros and cons.
+Based on the article I would have to pick a desktop. The desktop's main pro is the high definition and great quality. While most make their inability to be mobile a con, I consider it a fair price to pay for the higher definition and quality. </p>
+
+
+</body>
+</html>
